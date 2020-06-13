@@ -13,13 +13,13 @@ disqus_shortname:   default
 analytics-id:       "default"
 twitter:            default
 facebook:           default
-instagram:          default
+instagram:          https://www.instagram.com/rui_caria3/?hl=en
 github:             default
 
 # personal
-location:           Los Angeles, CA
-phone:              310-318-5555
-email:              info@default.com # change this to your email to receive free emails for your contact submissions via Slapform.com
+location:           Coimbra
+phone:              
+email:              ruk-caria@hotmail.com # change this to your email to receive free emails for your contact submissions via Slapform.com
 
 # Other
 background_image:   /images/bg.jpg
